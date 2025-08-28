@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Hades",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/e/e0/Hades_cover_art.jpg",
+        "metacritic": 93
+    },
+    {
+        "title": "Outer Wilds",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/4/4e/Outer_Wilds_cover.jpg",
+        "metacritic": 85
+    },
+    {
+        "title": "Undertale",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/1/1c/Undertale_cover.jpg",
+        "metacritic": 92
+    },
+    {
+        "title": "Gris",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/0/0e/Gris_cover_art.jpg",
+        "metacritic": 84
+    },
+    {
+        "title": "Chants of Sennaar",
+        "cover": "https://cdn.cloudflare.steamstatic.com/steam/apps/1939160/header.jpg",
+        "metacritic": 85
+    },
+    {
+        "title": "Darkest Dungeon",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/3/3e/Darkest_Dungeon_cover_art.jpg",
+        "metacritic": 84
+    },
+    {
+        "title": "What Remains of Edith Finch",
+        "cover": "https://upload.wikimedia.org/wikipedia/en/3/3a/What_Remains_of_Edith_Finch_cover.jpg",
+        "metacritic": 89
+    }
+]
