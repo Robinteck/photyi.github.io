@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Hollow Knight",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/367520/header.jpg",
+        "metacritic": 90
+    },
+    {
+        "title": "Celeste",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/504230/header.jpg",
+        "metacritic": 94
+    },
+    {
+        "title": "Dead Cells",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+        "metacritic": 89
+    },
+    {
+        "title": "Gris",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/683320/header.jpg",
+        "metacritic": 84
+    },
+    {
+        "title": "Chants of Sennaar",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/1939160/header.jpg",
+        "metacritic": 85
+    },
+    {
+        "title": "Slay the Spire",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/646570/header.jpg",
+        "metacritic": 89
+    },
+    {
+        "title": "What Remains of Edith Finch",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/501300/header.jpg",
+        "metacritic": 89
+    },
+    {
+        "title": "Outer Wilds",
+        "cover": "https://cdn.akamai.steamstatic.com/steam/apps/753640/header.jpg",
+        "metacritic": 85
+    }
+]
